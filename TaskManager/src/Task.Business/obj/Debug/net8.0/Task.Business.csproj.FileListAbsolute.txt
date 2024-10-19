@@ -1,0 +1,13 @@
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Business\bin\Debug\net8.0\Task.Business.deps.json
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Business\bin\Debug\net8.0\Task.Business.dll
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Business\bin\Debug\net8.0\Task.Business.pdb
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Business\obj\Debug\net8.0\Task.Business.csproj.AssemblyReference.cache
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Business\obj\Debug\net8.0\Task.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Business\obj\Debug\net8.0\Task.Business.AssemblyInfoInputs.cache
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Business\obj\Debug\net8.0\Task.Business.AssemblyInfo.cs
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Business\obj\Debug\net8.0\Task.Business.csproj.CoreCompileInputs.cache
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Business\obj\Debug\net8.0\Task.Business.sourcelink.json
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Business\obj\Debug\net8.0\Task.Business.dll
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Business\obj\Debug\net8.0\refint\Task.Business.dll
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Business\obj\Debug\net8.0\Task.Business.pdb
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Business\obj\Debug\net8.0\ref\Task.Business.dll

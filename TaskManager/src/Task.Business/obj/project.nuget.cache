@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PbBAcNRfNOQ=",
+  "success": true,
+  "projectFilePath": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\TaskManager.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugo.nunes\\.nuget\\packages\\fluentvalidation\\11.10.0\\fluentvalidation.11.10.0.nupkg.sha512"
+  ],
+  "logs": []
+}

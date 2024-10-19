@@ -1,0 +1,15 @@
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Data\bin\Debug\net8.0\Task.Data.deps.json
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Data\bin\Debug\net8.0\Task.Data.runtimeconfig.json
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Data\bin\Debug\net8.0\Task.Data.dll
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Data\bin\Debug\net8.0\Task.Data.pdb
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Data\obj\Debug\net8.0\Task.Data.csproj.AssemblyReference.cache
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Data\obj\Debug\net8.0\Task.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Data\obj\Debug\net8.0\Task.Data.AssemblyInfoInputs.cache
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Data\obj\Debug\net8.0\Task.Data.AssemblyInfo.cs
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Data\obj\Debug\net8.0\Task.Data.csproj.CoreCompileInputs.cache
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Data\obj\Debug\net8.0\Task.Data.sourcelink.json
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Data\obj\Debug\net8.0\Task.Data.dll
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Data\obj\Debug\net8.0\refint\Task.Data.dll
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Data\obj\Debug\net8.0\Task.Data.pdb
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Data\obj\Debug\net8.0\Task.Data.genruntimeconfig.cache
+C:\Desenvolvedor.IO\Projetos\task-manager\TaskManager\src\Task.Data\obj\Debug\net8.0\ref\Task.Data.dll
