@@ -9,7 +9,7 @@ namespace TaskManager.Business.Interface
         Task Adicionar(TEntity entity);
         Task Atualizar(TEntity entity);
         Task Remover(Guid id);
-        Task<int> SaveChange();
+        Task<int> SaveChanges();
 
     }
 }

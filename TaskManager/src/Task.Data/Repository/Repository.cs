@@ -7,8 +7,8 @@ namespace TaskManager.Data.Repository
 {
     public abstract class Repository<TEntity> : IRepository<TEntity> where TEntity : Entity , new()
     {
-        private readonly MeuDbContext Db;
-        private readonly DbSet<TEntity> DbSet;
+        protected readonly MeuDbContext Db;
+        protected readonly DbSet<TEntity> DbSet;
 
         protected Repository(MeuDbContext db)
         {
@@ -23,36 +23,36 @@ namespace TaskManager.Data.Repository
 
         public virtual async Task<List<TEntity>> ObterTodos()
         {
-            return await DbSet.ToListAsync();
+            return await DbSet.AsNoTracking().ToListAsync();
         }
 
         public async Task Adicionar(TEntity entity)
         {
             DbSet.Add(entity);
-            await SaveChange();
+            await SaveChanges();
         }
 
         public async Task Atualizar(TEntity entity)
         {
             DbSet.Update(entity);
-            await SaveChange();
+            await SaveChanges();
         }
 
         public async Task Remover(Guid id)
         {
             DbSet.Remove(new TEntity { Id = id });
-            await SaveChange();
+            await SaveChanges();
 
         }
 
-        public Task<int> SaveChange()
+        public async Task<int> SaveChanges()
         {
-            throw new NotImplementedException();
+            return await Db.SaveChangesAsync();
         }
 
         public void Dispose()
         {
-            throw new NotImplementedException();
+            Db.Dispose();
         }
 
 

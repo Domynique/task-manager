@@ -1,12 +1,46 @@
-﻿<Window x:Class="Task.WPF.MainWindow"
+﻿<Window x:Class="MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
-        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-        xmlns:local="clr-namespace:Task.WPF"
-        mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="Gerenciador de Tarefas" Height="450" Width="800">
     <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
 
+        <!-- ComboBox -->
+        <ComboBox x:Name="StatusComboBox" 
+                  SelectionChanged="StatusComboBox_SelectionChanged"
+                  Margin="10">
+            <ComboBoxItem Content="Todos" IsSelected="True"/>
+            <ComboBoxItem Content="Pendente"/>
+            <ComboBoxItem Content="EmProgresso"/>
+            <ComboBoxItem Content="Concluida"/>
+        </ComboBox>
+
+        <!-- DataGrid -->
+        <DataGrid x:Name="DataGridTarefas" 
+                  AutoGenerateColumns="False" 
+                  CanUserAddRows="False" 
+                  Grid.Row="1" 
+                  Margin="10" 
+                  IsReadOnly="True"
+                  ColumnWidth="*">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Título" Binding="{Binding Titulo}" />
+                <DataGridTextColumn Header="Descrição" Binding="{Binding Descricao}" />
+                <DataGridTextColumn Header="Data de Criação" Binding="{Binding DataDeCriacao}" />
+                <DataGridTextColumn Header="Data de Conclusão" Binding="{Binding DataDeConclusao}" />
+                <DataGridTextColumn Header="Status" Binding="{Binding Status}" />
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <!-- Button -->
+        <StackPanel Orientation="Horizontal" Grid.Row="2" HorizontalAlignment="Center" Margin="10">
+            <Button Content="Adicionar" Click="AdicionarTarefa_Click" Margin="5" Height="25" Width="80"/>
+            <Button Content="Editar" Click="EditarTarefa_Click" Margin="5" Height="25" Width="80"/>
+            <Button Content="Excluir" Click="ExcluirTarefa_Click" Margin="5" Height="25" Width="80"/>
+        </StackPanel>
     </Grid>
 </Window>

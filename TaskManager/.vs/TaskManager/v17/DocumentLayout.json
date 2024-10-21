@@ -3,52 +3,157 @@
   "WorkspaceRootPath": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|solutionrelative:src\\task.data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.api\\configurations\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|solutionrelative:src\\task.api\\configurations\\dependencyinjectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.api\\configurations\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|solutionrelative:src\\task.api\\configurations\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|solutionrelative:src\\task.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.data\\context\\meudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|solutionrelative:src\\task.data\\context\\meudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.business\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|solutionrelative:src\\task.business\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|solutionrelative:src\\task.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.data\\taskmanager.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|solutionrelative:src\\task.data\\taskmanager.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.business\\taskmanager.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|solutionrelative:src\\task.business\\taskmanager.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5412B66D-B0A5-4D20-95A6-0C1910B3DCAF}|src\\Task.WPF\\Task.WPF.vbproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.wpf\\application.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5412B66D-B0A5-4D20-95A6-0C1910B3DCAF}|src\\Task.WPF\\Task.WPF.vbproj|solutionrelative:src\\task.wpf\\application.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.business\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|solutionrelative:src\\task.business\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.api\\taskmanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|solutionrelative:src\\task.api\\taskmanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412B66D-B0A5-4D20-95A6-0C1910B3DCAF}|src\\Task.WPF\\Task.WPF.vbproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.wpf\\viewmodel\\tarefaviewmodel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5412B66D-B0A5-4D20-95A6-0C1910B3DCAF}|src\\Task.WPF\\Task.WPF.vbproj|solutionrelative:src\\task.wpf\\viewmodel\\tarefaviewmodel.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412B66D-B0A5-4D20-95A6-0C1910B3DCAF}|src\\Task.WPF\\Task.WPF.vbproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.wpf\\models\\status.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5412B66D-B0A5-4D20-95A6-0C1910B3DCAF}|src\\Task.WPF\\Task.WPF.vbproj|solutionrelative:src\\task.wpf\\models\\status.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|solutionrelative:src\\task.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|solutionrelative:src\\task.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412B66D-B0A5-4D20-95A6-0C1910B3DCAF}|src\\Task.WPF\\Task.WPF.vbproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.wpf\\edittarefawindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5412B66D-B0A5-4D20-95A6-0C1910B3DCAF}|src\\Task.WPF\\Task.WPF.vbproj|solutionrelative:src\\task.wpf\\edittarefawindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412B66D-B0A5-4D20-95A6-0C1910B3DCAF}|src\\Task.WPF\\Task.WPF.vbproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.wpf\\edittarefawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5412B66D-B0A5-4D20-95A6-0C1910B3DCAF}|src\\Task.WPF\\Task.WPF.vbproj|solutionrelative:src\\task.wpf\\edittarefawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.api\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|solutionrelative:src\\task.api\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412B66D-B0A5-4D20-95A6-0C1910B3DCAF}|src\\Task.WPF\\Task.WPF.vbproj|C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\task.wpf\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5412B66D-B0A5-4D20-95A6-0C1910B3DCAF}|src\\Task.WPF\\Task.WPF.vbproj|solutionrelative:src\\task.wpf\\mainwindow.xaml.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5412B66D-B0A5-4D20-95A6-0C1910B3DCAF}|src\\Task.WPF\\Task.WPF.vbproj|C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\task.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5412B66D-B0A5-4D20-95A6-0C1910B3DCAF}|src\\Task.WPF\\Task.WPF.vbproj|solutionrelative:src\\task.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|solutionrelative:src\\task.api\\controllers\\maincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.api\\viewmodels\\tarefaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|solutionrelative:src\\task.api\\viewmodels\\tarefaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.business\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|solutionrelative:src\\task.business\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.business\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|solutionrelative:src\\task.business\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.data\\taskmanager.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|solutionrelative:src\\task.data\\taskmanager.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.business\\interface\\itarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|solutionrelative:src\\task.business\\interface\\itarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.data\\repository\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|solutionrelative:src\\task.data\\repository\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|solutionrelative:src\\task.data\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.business\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|solutionrelative:src\\task.business\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.business\\services\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|solutionrelative:src\\task.business\\services\\tarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.business\\interface\\itarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|solutionrelative:src\\task.business\\interface\\itarefaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.business\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|solutionrelative:src\\task.business\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HugoNunes\\AppData\\Local\\Temp\\.vsdbgsrc\\00f9257c420475d0b9f0e9a404b60217c997df831d85c8cdcdf9214bf02ae594\\XamlReader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HugoNunes\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.data\\mappings\\tarefamapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|solutionrelative:src\\task.data\\mappings\\tarefamapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.data\\migrations\\20241019222453_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|solutionrelative:src\\task.data\\migrations\\20241019222453_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.data\\migrations\\20241019223005_updatetarefamapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5C3F4AC-A92A-4E95-96F4-7CE4883DAED0}|src\\Task.Data\\TaskManager.Data.csproj|solutionrelative:src\\task.data\\migrations\\20241019223005_updatetarefamapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.business\\interface\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|solutionrelative:src\\task.business\\interface\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.business\\models\\validation\\tarefavalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|solutionrelative:src\\task.business\\models\\validation\\tarefavalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.api\\taskmanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0E7E341E-71E7-4749-9395-5F4AEF4380CE}|src\\Task.API\\TaskManager.API.csproj|solutionrelative:src\\task.api\\taskmanager.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.business\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|solutionrelative:src\\task.business\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E7EF97C-5796-4E62-B92B-517E17FA45D2}|src\\Task.WPF\\TaskManager.WPF.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{3E7EF97C-5796-4E62-B92B-517E17FA45D2}|src\\Task.WPF\\TaskManager.WPF.csproj|solutionrelative:src\\task.wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.business\\notificacoes\\notificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|solutionrelative:src\\task.business\\notificacoes\\notificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3E7EF97C-5796-4E62-B92B-517E17FA45D2}|src\\Task.WPF\\TaskManager.WPF.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3E7EF97C-5796-4E62-B92B-517E17FA45D2}|src\\Task.WPF\\TaskManager.WPF.csproj|solutionrelative:src\\task.wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|c:\\desenvolvedor.io\\projetos\\task-manager\\taskmanager\\src\\task.business\\notificacoes\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFF64E89-8744-4AF5-84EF-A75803B1431E}|src\\Task.Business\\TaskManager.Business.csproj|solutionrelative:src\\task.business\\notificacoes\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,37 +163,462 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Application.xaml.vb",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\Application.xaml.vb",
+              "RelativeDocumentMoniker": "src\\Task.WPF\\Application.xaml.vb",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\Application.xaml.vb",
+              "RelativeToolTip": "src\\Task.WPF\\Application.xaml.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T07:41:44.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Task.API\\Program.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\Program.cs",
+              "RelativeToolTip": "src\\Task.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:33:51.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "AutoMapperConfig.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\Configurations\\AutoMapperConfig.cs",
+              "RelativeDocumentMoniker": "src\\Task.API\\Configurations\\AutoMapperConfig.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\Configurations\\AutoMapperConfig.cs",
+              "RelativeToolTip": "src\\Task.API\\Configurations\\AutoMapperConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T01:07:33.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjectionConfig.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\Configurations\\DependencyInjectionConfig.cs",
+              "RelativeDocumentMoniker": "src\\Task.API\\Configurations\\DependencyInjectionConfig.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\Configurations\\DependencyInjectionConfig.cs",
+              "RelativeToolTip": "src\\Task.API\\Configurations\\DependencyInjectionConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T23:49:20.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MeuDbContext.cs",
               "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\Context\\MeuDbContext.cs",
               "RelativeDocumentMoniker": "src\\Task.Data\\Context\\MeuDbContext.cs",
               "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\Context\\MeuDbContext.cs",
               "RelativeToolTip": "src\\Task.Data\\Context\\MeuDbContext.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-18T23:38:39.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "src\\Task.Data\\Repository\\Repository.cs",
-              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\Repository\\Repository.cs",
-              "RelativeToolTip": "src\\Task.Data\\Repository\\Repository.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "src\\Task.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "src\\Task.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T02:25:14.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EditTarefaWindow.xaml.vb",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\EditTarefaWindow.xaml.vb",
+              "RelativeDocumentMoniker": "src\\Task.WPF\\EditTarefaWindow.xaml.vb",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\EditTarefaWindow.xaml.vb",
+              "RelativeToolTip": "src\\Task.WPF\\EditTarefaWindow.xaml.vb",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T04:28:09.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Status.vb",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\Models\\Status.vb",
+              "RelativeDocumentMoniker": "src\\Task.WPF\\Models\\Status.vb",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\Models\\Status.vb",
+              "RelativeToolTip": "src\\Task.WPF\\Models\\Status.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T03:48:14.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Task.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Task.API\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-20T02:21:02.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Task.API\\appsettings.json",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\appsettings.json",
+              "RelativeToolTip": "src\\Task.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-19T18:02:01.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Models\\Tarefa.cs",
+              "RelativeDocumentMoniker": "src\\Task.Business\\Models\\Tarefa.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Models\\Tarefa.cs",
+              "RelativeToolTip": "src\\Task.Business\\Models\\Tarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T23:36:10.702Z",
+              "WhenOpened": "2024-10-18T22:31:31.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TarefaViewModel.vb",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\ViewModel\\TarefaViewModel.vb",
+              "RelativeDocumentMoniker": "src\\Task.WPF\\ViewModel\\TarefaViewModel.vb",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\ViewModel\\TarefaViewModel.vb",
+              "RelativeToolTip": "src\\Task.WPF\\ViewModel\\TarefaViewModel.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T03:37:09.171Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "TaskManager.API.csproj",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\TaskManager.API.csproj",
+              "RelativeDocumentMoniker": "src\\Task.API\\TaskManager.API.csproj",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\TaskManager.API.csproj",
+              "RelativeToolTip": "src\\Task.API\\TaskManager.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T18:49:07.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainController.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\Controllers\\MainController.cs",
+              "RelativeDocumentMoniker": "src\\Task.API\\Controllers\\MainController.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\Controllers\\MainController.cs",
+              "RelativeToolTip": "src\\Task.API\\Controllers\\MainController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T02:14:40.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditTarefaWindow.xaml",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\EditTarefaWindow.xaml",
+              "RelativeDocumentMoniker": "src\\Task.WPF\\EditTarefaWindow.xaml",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\EditTarefaWindow.xaml",
+              "RelativeToolTip": "src\\Task.WPF\\EditTarefaWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T04:26:14.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml.vb",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\MainWindow.xaml.vb",
+              "RelativeDocumentMoniker": "src\\Task.WPF\\MainWindow.xaml.vb",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\MainWindow.xaml.vb",
+              "RelativeToolTip": "src\\Task.WPF\\MainWindow.xaml.vb",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-21T03:28:33.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\Controllers\\TarefaController.cs",
+              "RelativeDocumentMoniker": "src\\Task.API\\Controllers\\TarefaController.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\Controllers\\TarefaController.cs",
+              "RelativeToolTip": "src\\Task.API\\Controllers\\TarefaController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAvwCkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T00:56:35.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "src\\Task.WPF\\MainWindow.xaml",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\MainWindow.xaml",
+              "RelativeToolTip": "src\\Task.WPF\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-21T03:28:33.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "src\\Task.Business\\Models\\Status.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Models\\Status.cs",
+              "RelativeToolTip": "src\\Task.Business\\Models\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:31:26.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TarefaViewModel.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\ViewModels\\TarefaViewModel.cs",
+              "RelativeDocumentMoniker": "src\\Task.API\\ViewModels\\TarefaViewModel.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\ViewModels\\TarefaViewModel.cs",
+              "RelativeToolTip": "src\\Task.API\\ViewModels\\TarefaViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T00:51:46.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "src\\Task.Business\\Interface\\IRepository.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Interface\\IRepository.cs",
+              "RelativeToolTip": "src\\Task.Business\\Interface\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:24:21.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "src\\Task.Data\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\Repository\\Repository.cs",
+              "RelativeToolTip": "src\\Task.Data\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T23:36:10.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaskManager.Data.csproj",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\TaskManager.Data.csproj",
+              "RelativeDocumentMoniker": "src\\Task.Data\\TaskManager.Data.csproj",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\TaskManager.Data.csproj",
+              "RelativeToolTip": "src\\Task.Data\\TaskManager.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T18:23:36.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ITarefaRepository.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Interface\\ITarefaRepository.cs",
+              "RelativeDocumentMoniker": "src\\Task.Business\\Interface\\ITarefaRepository.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Interface\\ITarefaRepository.cs",
+              "RelativeToolTip": "src\\Task.Business\\Interface\\ITarefaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:20:04.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "TarefaRepository.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\Repository\\TarefaRepository.cs",
+              "RelativeDocumentMoniker": "src\\Task.Data\\Repository\\TarefaRepository.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\Repository\\TarefaRepository.cs",
+              "RelativeToolTip": "src\\Task.Data\\Repository\\TarefaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:58:39.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TarefaService.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Services\\TarefaService.cs",
+              "RelativeDocumentMoniker": "src\\Task.Business\\Services\\TarefaService.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Services\\TarefaService.cs",
+              "RelativeToolTip": "src\\Task.Business\\Services\\TarefaService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:24:54.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITarefaService.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Interface\\ITarefaService.cs",
+              "RelativeDocumentMoniker": "src\\Task.Business\\Interface\\ITarefaService.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Interface\\ITarefaService.cs",
+              "RelativeToolTip": "src\\Task.Business\\Interface\\ITarefaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T18:22:13.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "src\\Task.Business\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Services\\BaseService.cs",
+              "RelativeToolTip": "src\\Task.Business\\Services\\BaseService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:32:53.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAJYTAAAAAAAAAAAnwKwTAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-10-21T01:25:01.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "XamlReader.cs",
+              "DocumentMoniker": "C:\\Users\\HugoNunes\\AppData\\Local\\Temp\\.vsdbgsrc\\00f9257c420475d0b9f0e9a404b60217c997df831d85c8cdcdf9214bf02ae594\\XamlReader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\HugoNunes\\AppData\\Local\\Temp\\.vsdbgsrc\\00f9257c420475d0b9f0e9a404b60217c997df831d85c8cdcdf9214bf02ae594\\XamlReader.cs",
+              "ToolTip": "C:\\Users\\HugoNunes\\AppData\\Local\\Temp\\.vsdbgsrc\\00f9257c420475d0b9f0e9a404b60217c997df831d85c8cdcdf9214bf02ae594\\XamlReader.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\HugoNunes\\AppData\\Local\\Temp\\.vsdbgsrc\\00f9257c420475d0b9f0e9a404b60217c997df831d85c8cdcdf9214bf02ae594\\XamlReader.cs",
+              "ViewState": "AgIAAO0BAAAAAAAAAAAewP4BAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:11:44.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\HugoNunes\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Users\\HugoNunes\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\HugoNunes\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\Users\\HugoNunes\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAIBJwCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T21:00:00.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "INotificador.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Interface\\INotificador.cs",
+              "RelativeDocumentMoniker": "src\\Task.Business\\Interface\\INotificador.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Interface\\INotificador.cs",
+              "RelativeToolTip": "src\\Task.Business\\Interface\\INotificador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:27:00.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TarefaMapping.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\Mappings\\TarefaMapping.cs",
+              "RelativeDocumentMoniker": "src\\Task.Data\\Mappings\\TarefaMapping.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\Mappings\\TarefaMapping.cs",
+              "RelativeToolTip": "src\\Task.Data\\Mappings\\TarefaMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:47:17.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TarefaValidation.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Models\\Validation\\TarefaValidation.cs",
+              "RelativeDocumentMoniker": "src\\Task.Business\\Models\\Validation\\TarefaValidation.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Models\\Validation\\TarefaValidation.cs",
+              "RelativeToolTip": "src\\Task.Business\\Models\\Validation\\TarefaValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T22:32:06.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241019223005_UpdateTarefaMapping.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\Migrations\\20241019223005_UpdateTarefaMapping.cs",
+              "RelativeDocumentMoniker": "src\\Task.Data\\Migrations\\20241019223005_UpdateTarefaMapping.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\Migrations\\20241019223005_UpdateTarefaMapping.cs",
+              "RelativeToolTip": "src\\Task.Data\\Migrations\\20241019223005_UpdateTarefaMapping.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:30:05.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241019222453_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\Migrations\\20241019222453_InitialCreate.cs",
+              "RelativeDocumentMoniker": "src\\Task.Data\\Migrations\\20241019222453_InitialCreate.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\Migrations\\20241019222453_InitialCreate.cs",
+              "RelativeToolTip": "src\\Task.Data\\Migrations\\20241019222453_InitialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:24:53.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Models\\Entity.cs",
               "RelativeDocumentMoniker": "src\\Task.Business\\Models\\Entity.cs",
@@ -100,115 +630,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Interface\\IRepository.cs",
-              "RelativeDocumentMoniker": "src\\Task.Business\\Interface\\IRepository.cs",
-              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Interface\\IRepository.cs",
-              "RelativeToolTip": "src\\Task.Business\\Interface\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:24:21.465Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TaskManager.Data.csproj",
-              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\TaskManager.Data.csproj",
-              "RelativeDocumentMoniker": "src\\Task.Data\\TaskManager.Data.csproj",
-              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\TaskManager.Data.csproj",
-              "RelativeToolTip": "src\\Task.Data\\TaskManager.Data.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-18T18:23:36.299Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "TarefaValidation.cs",
-              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Models\\Validation\\TarefaValidation.cs",
-              "RelativeDocumentMoniker": "src\\Task.Business\\Models\\Validation\\TarefaValidation.cs",
-              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Models\\Validation\\TarefaValidation.cs",
-              "RelativeToolTip": "src\\Task.Business\\Models\\Validation\\TarefaValidation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:32:06.503Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Status.cs",
-              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Models\\Status.cs",
-              "RelativeDocumentMoniker": "src\\Task.Business\\Models\\Status.cs",
-              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Models\\Status.cs",
-              "RelativeToolTip": "src\\Task.Business\\Models\\Status.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:31:26.074Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Tarefa.cs",
-              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Models\\Tarefa.cs",
-              "RelativeDocumentMoniker": "src\\Task.Business\\Models\\Tarefa.cs",
-              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Models\\Tarefa.cs",
-              "RelativeToolTip": "src\\Task.Business\\Models\\Tarefa.cs",
+              "DocumentIndex": 37,
+              "Title": "Notificador.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Notificacoes\\Notificador.cs",
+              "RelativeDocumentMoniker": "src\\Task.Business\\Notificacoes\\Notificador.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Notificacoes\\Notificador.cs",
+              "RelativeToolTip": "src\\Task.Business\\Notificacoes\\Notificador.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T22:31:31.824Z"
+              "WhenOpened": "2024-10-19T21:29:27.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TaskManager.Business.csproj",
-              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\TaskManager.Business.csproj",
-              "RelativeDocumentMoniker": "src\\Task.Business\\TaskManager.Business.csproj",
-              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\TaskManager.Business.csproj",
-              "RelativeToolTip": "src\\Task.Business\\TaskManager.Business.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-18T22:21:23.499Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TaskManager.API.csproj",
-              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\TaskManager.API.csproj",
-              "RelativeDocumentMoniker": "src\\Task.API\\TaskManager.API.csproj",
-              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.API\\TaskManager.API.csproj",
-              "RelativeToolTip": "src\\Task.API\\TaskManager.API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-18T18:49:07.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "src\\Task.WPF\\MainWindow.xaml",
-              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\MainWindow.xaml",
-              "RelativeToolTip": "src\\Task.WPF\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-18T16:49:27.682Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "src\\Task.WPF\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.WPF\\MainWindow.xaml.cs",
-              "RelativeToolTip": "src\\Task.WPF\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 38,
+              "Title": "Notificacao.cs",
+              "DocumentMoniker": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Notificacoes\\Notificacao.cs",
+              "RelativeDocumentMoniker": "src\\Task.Business\\Notificacoes\\Notificacao.cs",
+              "ToolTip": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Business\\Notificacoes\\Notificacao.cs",
+              "RelativeToolTip": "src\\Task.Business\\Notificacoes\\Notificacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T16:49:24.881Z"
+              "WhenOpened": "2024-10-19T21:25:22.836Z"
             }
           ]
         }

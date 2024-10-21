@@ -11,18 +11,26 @@ namespace TaskManager.Data.Context
         }
         public DbSet<Tarefa> Tarefas { get; set; }
 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.ApplyConfigurationsFromAssembly(typeof(MeuDbContext).Assembly);
+
+            foreach (var relationship in modelBuilder.Model.GetEntityTypes().SelectMany(e => e.GetForeignKeys())) relationship.DeleteBehavior = DeleteBehavior.ClientSetNull;
+
+            base.OnModelCreating(modelBuilder);
+        }
         public override Task<int> SaveChangesAsync(CancellationToken cancellationToken = new CancellationToken())
         {
-            foreach (var entry in ChangeTracker.Entries().Where(entry => entry.Entity.GetType().GetProperty("DataCadastro") != null))
+            foreach (var entry in ChangeTracker.Entries().Where(entry => entry.Entity.GetType().GetProperty("DataDeCriacao") != null))
             {
                 if (entry.State == EntityState.Added)
                 {
-                    entry.Property("DataCadastro").CurrentValue = DateTime.Now;
+                    entry.Property("DataDeCriacao").CurrentValue = DateTime.Now;
                 }
 
                 if (entry.State == EntityState.Modified)
                 {
-                    entry.Property("DataCadastro").IsModified = false;
+                    entry.Property("DataDeCriacao").IsModified = false;
                 }
             }
 

@@ -72,25 +72,6 @@
           }
         }
       },
-      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/8.0.10": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore.Relational": "8.0.10"
-        },
-        "compile": {
-          "lib/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll": {
-            "related": ".xml"
-          }
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
-      },
       "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
         "type": "package",
         "compile": {
@@ -1627,21 +1608,6 @@
         "lib/netstandard2.0/Humanizer.dll",
         "lib/netstandard2.0/Humanizer.xml",
         "logo.png"
-      ]
-    },
-    "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/8.0.10": {
-      "sha512": "aJTexpNt/qr7gsO3djvdROFGBAJZxMFSXrHUKXWMlcZPTIivUW8twMCTTTHelIMjgiKzw0GfKrgH0Lkzj6YJlA==",
-      "type": "package",
-      "path": "microsoft.aspnetcore.diagnostics.entityframeworkcore/8.0.10",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "THIRD-PARTY-NOTICES.TXT",
-        "lib/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll",
-        "lib/net8.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.xml",
-        "microsoft.aspnetcore.diagnostics.entityframeworkcore.8.0.10.nupkg.sha512",
-        "microsoft.aspnetcore.diagnostics.entityframeworkcore.nuspec"
       ]
     },
     "Microsoft.Bcl.AsyncInterfaces/6.0.0": {
@@ -4124,7 +4090,6 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore >= 8.0.10",
       "Microsoft.EntityFrameworkCore >= 8.0.10",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.10",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.10",
@@ -4132,7 +4097,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hugo.nunes\\.nuget\\packages\\": {}
+    "C:\\Users\\HugoNunes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -4140,11 +4105,11 @@
       "projectUniqueName": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\TaskManager.Data.csproj",
       "projectName": "TaskManager.Data",
       "projectPath": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\TaskManager.Data.csproj",
-      "packagesPath": "C:\\Users\\hugo.nunes\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\HugoNunes\\.nuget\\packages\\",
       "outputPath": "C:\\Desenvolvedor.IO\\Projetos\\task-manager\\TaskManager\\src\\Task.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\hugo.nunes\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HugoNunes\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4180,10 +4145,6 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
-          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
-            "target": "Package",
-            "version": "[8.0.10, )"
-          },
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[8.0.10, )"
