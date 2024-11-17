@@ -63,7 +63,6 @@ A estrutura do projeto é organizada da seguinte forma:
 - Clicar com o botão direito no Projeto que deseja avaliar e selecionar "Definir como projeto de inicialização"
 - Iniciar aplicação
 
-<br />
 ## **4. Documentação da API**
 
 A documentação da API está disponível através do Swagger. Após iniciar a API, acesse a documentação em:
