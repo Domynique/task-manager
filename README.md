@@ -44,7 +44,7 @@ A estrutura do projeto é organizada da seguinte forma:
 1. **Clone o Repositório:**
    
    ```bash
-   git clone https://github.com/Domynique/task-manager.git
+   git clone https://github.com/hugodomynique/task-manager.git
    cd task-manager
    ```
 
